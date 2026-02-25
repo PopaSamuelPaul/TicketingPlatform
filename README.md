@@ -9,8 +9,8 @@ A robust backend REST API built with Java and Spring Boot for managing events an
 * **Layered Architecture:** Strict separation of concerns (Controllers, Services, Repositories, Entities).
 
 ## 🛠️ Tech Stack
-* **Language:** Java 21 (or 17)
-* **Framework:** Spring Boot 3.x
+* **Language:** Java 25
+* **Framework:** Spring Boot 4.0.5
 * **Data Access:** Spring Data JPA / Hibernate
 * **Database:** H2 In-Memory Database (for rapid MVP testing)
 * **Tools:** Lombok, Maven, Postman (Performance Testing)
